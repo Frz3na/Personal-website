@@ -1,0 +1,38 @@
+body
+{
+	background-color: lightblue;
+}
+h1
+{
+	color: blueviolet;
+	background-color: lightpink;
+	font-family: papyrus;
+	font-size: 30px;
+	text-align: center;
+	border: 3px darkturquoise;
+}
+h4
+{
+	color: seagreen;
+	background-color: lightyellow;
+	border: 2px MediumOrchid;
+	text-align: center ;
+}
+p
+{
+
+	color: white;
+	text-align: right;
+}
+
+table,tr,th,td
+
+{
+	border: 3px solid seagreen;
+	border-collapse: collapse;
+}
+
+tr
+{
+	
+}

@@ -1,0 +1,52 @@
+<style>
+		
+		{
+			width: 1350px;
+			height: 1.2px;
+			background-color: black;
+		}
+		body
+		{
+			background-color: mistyrose;
+			text-align: center;
+		}
+		h1
+		{
+			font-family: Georgia;
+			font-size: 30px;
+			background-position: center;
+		}
+
+		h2
+		{
+			font-family: Papyrus;
+			font-size: 20px;
+			background-position: center;
+		}
+
+		
+		h3
+		{
+			background-color: beige;
+			font-family: monospace;
+			text-align: center;
+			font-size: 30px;
+		}
+		button
+		{
+			font-size: 15px;
+			font-family: Century Gothic;
+			border:none;
+			background-color: hotpink;
+			padding: 20px 40px;
+			text-align: center;
+		}
+		button:hover
+		{
+			background-color: whitesmoke;
+		}
+		button:active
+		{
+			background-color: whitesmoke;
+		}
+	</style>
